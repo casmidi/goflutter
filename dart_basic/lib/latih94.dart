@@ -13,4 +13,5 @@ void main() {
   print("Maximum is $maxnum");
   print("Minimum is $minnum");
   print("Square root is $squareroot");
+  print("casmidi");
 }
