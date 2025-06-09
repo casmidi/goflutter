@@ -8,4 +8,5 @@ void main() {
   String contents = file.readAsStringSync();
   //print file
   print(contents);
+  print('Hasil printnya');
 }
